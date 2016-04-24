@@ -1,0 +1,9 @@
+[zabbix]
+testzbx tags=web
+testzbxdb tags=db
+
+[zabbix-web]
+testzbx
+
+[zabbix-db]
+testzbxdb
